@@ -1,0 +1,5 @@
+<?php
+$MYSQL_DB_HOST = "127.0.0.1";
+$MYSQL_DB_PORT = 3306;
+$MYSQL_DB_USER = "root";
+$MYSQL_DB_PASSWORD = "";
